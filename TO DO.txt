@@ -1,0 +1,7 @@
+- Print Gen chem mods
+- print excuse letter
+- compile admission requirement
+- finalize research with teamates
+- find advisor
+- merge files on github
+- learn c# graphics/math/apisss
