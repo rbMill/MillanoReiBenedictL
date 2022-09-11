@@ -1,10 +1,13 @@
 - Print Gen chem mods
 - print excuse letter
 - psm additional activities
+- print 4x6
+-download pdfs
 - Gen Chem Reqs
 	- print mod 2
 	- submit mod 4 and 5
-	- bring log book notebook
+	- bring log book notebook /
+	- write notes on big notebook
 - emis recs
 	- cardboard 
 	- double sided tape
