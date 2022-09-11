@@ -1,6 +1,5 @@
 - Print Gen chem mods
 - print excuse letter
-- psm additional activities
 - print 4x6
 -download pdfs
 - Gen Chem Reqs
