@@ -4,28 +4,13 @@
 - print 4x6
 -download pdfs
 - Gen Chem Reqs
-	- print mod 2
-	- submit mod 4 and 5
-	- bring log book notebook /
 	- write notes on big notebook
-- emis recs
-	- cardboard 
-	- double sided tape
-	- plastic wrap
+
 - to bring
 	- red ball pen
 	- extra whiteboard
 	- cups to school
 -return to  vincent calculator
-
-TO BE PASSED‼️
-☑️ PSM /
-☑️ PerDev /
-☑️ EAPP / 
-☑️ GenChem 4-5, Experiment observations
-
-▪️Nametag 4x6 (surname, given name, m.i.)
-▪️UCSP TEST
 
 
 
@@ -34,3 +19,15 @@ TO BE PASSED‼️
 - find advisor
 - merge files on github
 - learn c# graphics/math/apisss
+
+
+Vector - a quantity or phenomenon that has two independent properties: magnitude and direction. Some examples of a vector are displacement, velocity, acceleration
+	Ex.
+		A car moved with a vector 60 kilometers per hour on to the southlane.
+
+Scalar - a physical quantity that is completely described by its magnitude. Examples of scalars are volume, density, speed, energy, mass, and time.
+	Ex.
+		A cube with a 3 meters of side length has an area of 9 meters squared on each face with a volume 27 meters cubed which are all scalar quantities.
+
+Gravity - The force that attracts a body toward the center of the earth, or toward any other physical body having mass.
+	Ex.	The moisture in the clouds turns to rain as it is dictated down by gravity as to how rivers and waterfalls flow from their highest to the depths. 
