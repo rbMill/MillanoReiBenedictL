@@ -3,12 +3,15 @@
 - print 4x6
 -download pdfs
 - Gen Chem Reqs
+	- print mod 3
+	- mod 8-9 print/answer
 	- write notes on big notebook
 
-- to bring
-	- red ball pen
-	- extra whiteboard
-	- cups to school
+-bu letter requirement due on friday
+
+- Filipino requirement
+ 
+
 -return to  vincent calculator
 
 
