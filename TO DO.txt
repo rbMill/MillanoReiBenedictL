@@ -1,18 +1,8 @@
-- Print Gen chem mods
-- print excuse letter
-- print 4x6
--download pdfs
-- Gen Chem Reqs
-	- print mod 3
-	- mod 8-9 print/answer
-	- write notes on big notebook
-
--bu letter requirement due on friday
-
-- Filipino requirement
- 
-
--return to  vincent calculator
+- review chem(intermolecular forces)
+- notes ucsp
+- review for cets and dates testing/ coverage
+- see uni/college still available
+- compile next year cets
 
 
 
@@ -22,14 +12,3 @@
 - merge files on github
 - learn c# graphics/math/apisss
 
-
-Vector - a quantity or phenomenon that has two independent properties: magnitude and direction. Some examples of a vector are displacement, velocity, acceleration
-	Ex.
-		A car moved with a vector 60 kilometers per hour on to the southlane.
-
-Scalar - a physical quantity that is completely described by its magnitude. Examples of scalars are volume, density, speed, energy, mass, and time.
-	Ex.
-		A cube with a 3 meters of side length has an area of 9 meters squared on each face with a volume 27 meters cubed which are all scalar quantities.
-
-Gravity - The force that attracts a body toward the center of the earth, or toward any other physical body having mass.
-	Ex.	The moisture in the clouds turns to rain as it is dictated down by gravity as to how rivers and waterfalls flow from their highest to the depths. 
